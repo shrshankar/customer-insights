@@ -33,7 +33,7 @@ The features listed below might interest you as you transition segments from out
 - **Include or exclude up to 20,000 members as part of the segment builder**: Currently, real-time marketing only allows 100 members to be added to a static segment as part of the segment builder capabilities. In 2025, this limit increases to 20,000 so that customers can add more members to their segments based on business criteria rather than employing cumbersome mechanisms such as using marketing lists. This lets customers use segmentation with less complexity and streamline operations leading to journey creation.
 - **Include large segments in real-time marketing journeys**: Soon, with real-time marketing journeys, customers can use segments as large as 50 million members in their journeys. This is a significant upgrade from the current 10 million member limit that's present in outbound marketing.
 
-## Segment Migration Solution purpose
+## Segment Migration Solution
 
 Migrating segments from outbound marketing to real-time marketing can be time consuming and operationally heavy. The *Segment Migration Solution* helps users migrate their segments from outbound marketing to real-time marketing with an intuitive solution that has a clean interface, allowing for a seamless and straightforward migration experience.
 
